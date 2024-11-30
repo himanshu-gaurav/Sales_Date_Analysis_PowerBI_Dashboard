@@ -68,7 +68,7 @@ This project demonstrates the analysis of store sales data, including forecastin
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/himanshu-gaurav/Sales_Date_Analysis_PowerBI_Dashboard.git
 2. Open the .pbix file in Power BI Desktop.
 3. Explore the dashboard and interact with filters for detailed insights.
 
