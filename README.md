@@ -1,6 +1,6 @@
 # Power BI Project: Store Sales Analysis and Forecasting
 
-This project demonstrates the analysis of store sales data, including forecasting and detailed visualization of sales metrics. The dashboard provides insights into key performance indicators (KPIs), sales trends, and future projections, aiding in strategic decision-making.
+An interactive Power BI dashboard to analyze store sales, visualize trends, and forecast future performance for strategic decision-making.
 
 ---
 
